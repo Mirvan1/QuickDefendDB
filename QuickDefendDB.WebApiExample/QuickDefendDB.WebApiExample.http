@@ -1,0 +1,6 @@
+@QuickDefendDB.WebApiExample_HostAddress = http://localhost:5264
+
+GET {{QuickDefendDB.WebApiExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
